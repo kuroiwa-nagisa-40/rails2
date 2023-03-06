@@ -1,0 +1,4 @@
+class Boad < ApplicationRecord
+    
+
+end
